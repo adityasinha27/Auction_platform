@@ -11,7 +11,7 @@ This MERN stack-based platform empowers farmers by providing a stable market acc
 ## 📸 Screenshots
 
 ### 1. Home Page
-![Home Page](assets/one.png)
+![Home Page](frontend/assets/one.png)
 
 > A user-friendly homepage where users can view ongoing auctions.
 
