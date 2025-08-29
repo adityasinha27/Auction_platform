@@ -1,4 +1,4 @@
-# Auction Platform for Farmers 🧑‍🌾📈
+# Auction Platform for Farmers (MERN Based)🧑‍🌾📈
 
 This MERN stack-based platform empowers farmers by providing stable market access through real-time auction listings, transparent bidding, and secure transactions.
 
